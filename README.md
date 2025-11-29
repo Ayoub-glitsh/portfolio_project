@@ -1,4 +1,9 @@
 # 🌟 Portfolio - Ayoub Aguezar
+---
+<p align="center">
+  <img src="view.png"/>
+</p>
+
 
 Bienvenue dans mon portfolio professionnel ! Ce projet présente mes compétences, mes projets web, mon parcours de formation ainsi que mes informations de contact.  
 Il s'agit d'un site moderne, responsive et entièrement réalisé en **HTML, CSS, JavaScript**, avec une attention particulière au design et à l'expérience utilisateur.

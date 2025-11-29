@@ -117,12 +117,12 @@ Projet moderne déployé récemment s’intégrant dans mon parcours de dévelop
 
 1. **Cloner le dépôt**
 ```bash
-git clone https://github.com/votre-username/portfolio.git
+git clone https://github.com/Ayoub-glitsh/portfolio_project.git
 ```
 
 2. **Ouvrir le projet**
 ```bash
-cd portfolio
+cd portfolio_project
 ```
 
 3. **Lancer dans un navigateur**

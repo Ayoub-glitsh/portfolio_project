@@ -138,10 +138,9 @@ cd portfolio_project
 ├── projet.html
 ├── formations.html
 ├── contact.html
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── images/
+├── main.jpg
+├── style.css
+├── view.png
 └── README.md
 ```
 

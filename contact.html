@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Contact</title>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">Ayoub</a>
+
+        <nav>
+            <a href="index.html" > Home</a>
+            <a href="projet.html" >Projects</a>
+            <a href="formations.html" >Education & Experience</a>
+            <a href="contact.html"  class="active">Contact</a>
+        </nav>
+    </header>
+  <section id="contact">
+    <div class="home-content">
+        <h3>Contactez-<span>moi</span></h3>
+        <form class="contact-form" action="https://formsubmit.co/maboiteemail" method="POST" target="_blank">
+            
+            <div class="form-group">
+                <input type="text" name="name" placeholder=" " required>
+                <label>Nom complet</label>
+            </div>
+            <div class="form-group">
+                <input type="email" name="email" placeholder=" " required>
+                <label>Email</label>
+            </div>
+            <div class="form-group">
+                <textarea name="message" required></textarea>
+                <label>Message</label>
+            </div>
+            <button type="submit" class="btn">Envoyer</button>
+        </form>
+        
+        
+    </div>
+  </section>
+</body>
+</html>
